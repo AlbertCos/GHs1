@@ -26,6 +26,18 @@
     margin-left: auto;
 }
 
+.logo{
+  /* text-align:center; */
+  padding:40px 0;
+  border-right-color: #0e0f10;
+  border-bottom:5px solid #0e0f10;
+}
+
+.logo-personal{
+  margin:0 auto;
+  width:60%;
+  vertical-align: middle;
+}
 .profile-image {
   width: 100%;
   border-radius: 50%;
@@ -34,8 +46,6 @@
 }
 
 
-section {
-    margin-top: 10px;
-    outline: 1px solid #66b8da!important;
-    display: block;
+nav {
+    text-align: center ;
 }
