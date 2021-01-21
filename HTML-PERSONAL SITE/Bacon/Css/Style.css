@@ -1,0 +1,25 @@
+/*************Tag Selectors*************/
+h1{
+  color: red;
+}
+p{
+  color:blue;
+}
+
+img:hover{
+  background-color: gold;
+} 
+
+/************Class Selectors************/
+
+.baconmo{
+    background-color: red;
+}
+.brocoli{
+  background-color: green;
+}
+/***************ID Selectors*/
+
+#heading{
+  color:blue;
+}
