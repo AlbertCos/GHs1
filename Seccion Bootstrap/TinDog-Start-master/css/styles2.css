@@ -25,7 +25,31 @@ main{
   left:10%;
   margin:5% 5%;
 }
+h2{
+  font-size: 35px;
+}
+h3{
+  font-size:26px;
+}
 
+h1,h2,h3,h4,h5,h6{
+  margin:0;
+  padding:0;
+  font-weight: 600;
+  color:#8f8f8f;
+}
+
+.header-page{
+  text-align:center;
+
+}
+.header-box{
+  position:relative;
+  text-align:center;
+}
+.mb-50{
+  margin-bottom:50px;
+}
 #siderbarMenu{
   position:fixed;
   width:10%;
