@@ -17,7 +17,22 @@
     max-width: 720px;
   }
 }
+main{
+  position:absolute;
+  width:90%;
+  weight:90%;
+  top:10%;
+  left:10%;
+  margin:5% 5%;
+}
 
+#siderbarMenu{
+  position:fixed;
+  width:10%;
+  height:100%;
+  top:0;
+  z-index:99;
+}
 .container {
     width: 100%;
     padding-right: 15px;
@@ -48,4 +63,6 @@
 
 nav {
     text-align: center ;
+    background-color: black;
+    list-style-type:none;
 }
