@@ -26,7 +26,16 @@
     margin-left: auto;
 }
 
+.profile-image {
+  width: 100%;
+  border-radius: 50%;
+  margin: 2%;
+  vertical-align: middle;
+}
+
+
 section {
+    margin-top: 10px;
     outline: 1px solid #66b8da!important;
     display: block;
 }
