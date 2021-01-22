@@ -39,7 +39,9 @@ main {
   margin: 5% 5%;
   color: #fff;
 }
-
+.position-sticky a{
+  color:#fff;
+}
 .pt-50 {
   padding-top: 45px !important;
 }
@@ -305,4 +307,13 @@ nav {
     -webkit-background-size: cover;
     background-size: cover;
     background-position: center;
+}
+.pt-home .banner{
+  left:10% !important;
+  position: absolute;
+  width: 90%;
+  top: 50%;
+  color: #fff;
+  text-align: center;
+  transform: translateY(-50%);
 }
