@@ -205,10 +205,12 @@ p {
 }
 
 .profile-image {
-  width: 100%;
+  width: 80%;
   border-radius: 50%;
   margin: 2%;
   vertical-align: middle;
+  margin-top:20px;
+  margin-left:30px;
 }
 
 nav {
@@ -232,6 +234,12 @@ nav {
   margin-bottom: 1rem;
   padding-top: 5px;
   padding-bottom: 2px;
+}
+
+.item svg{;
+  position:relative;
+  margin-right: 5px;
+  color: #25ca7f !important;
 }
 
 .inter-icon svg {
@@ -278,4 +286,10 @@ nav {
 }
 .lang-icon:hover {
   background: #070708;
+}
+.pp{
+   margin-top: 30px;
+    margin-left: 0px;
+    padding-left: 10px;
+    padding-right: 40px;
 }
