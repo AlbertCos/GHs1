@@ -10,3 +10,16 @@
   margin: 0 auto;
   position: relative;
 }
+#group_carrot {
+    width: 210px;
+    height: 90px;
+    position: absolute;
+    top: 100px;
+    right: 55px;
+}
+.carrot {
+    width: 30px;
+    height: 30px;
+    margin-top: 7px;
+    top: 0;
+}
