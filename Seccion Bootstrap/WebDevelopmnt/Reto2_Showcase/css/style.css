@@ -10,7 +10,7 @@
   margin: 0 auto;
   position: relative;
 }
-#group_carrot {
+/* #group_carrot {
     width: 310px;
     height: 90px;
     position: absolute;
@@ -22,7 +22,7 @@
     height: 40px;
     margin-top: 5px;
     top: 0;
-}
+} */
 
 #group_onion {
     width: 210px;
@@ -39,7 +39,7 @@
 }
 
 #group_spinach {
-    width: 210px;
+    width: 230px;
     height: 90px;
     position: absolute;
     top: 318px;
@@ -52,10 +52,10 @@
   top: 0;
 }
 #group_purple_onion {
-    width: 210px;
+    width: 160px;
     height: 90px;
     position: absolute;
-    top: 318px;
+    top: 315px;
     right: 250px;
 }
 .purple_onion{
@@ -101,6 +101,71 @@
 .jar{
   width: 40px;
   height: 80px;
+  margin-top: 5px;
+  top: 0;
+}
+#group_sauce {
+    width: 210px;
+    height: 80px;
+    position: absolute;
+    top: 75px;
+    right: 280px;
+}
+.sauce{
+  width: 40px;
+  height: 70px;
+  margin-top: 5px;
+  top: 0;
+}
+#group_water {
+    width: 210px;
+    height: 90px;
+    position: absolute;
+    top: 198px;
+    right: 150px;
+}
+.water{
+  width: 20px;
+  height: 50px;
+  margin-top: 5px;
+  top: 0;
+}
+#group_lettuce {
+    width: 290px;
+    height: 90px;
+    position: absolute;
+    top: 440px;
+    right: 120px;
+}
+.lettuce{
+  width: 50px;
+  height: 50px;
+  margin-top: 5px;
+  top: 0;
+}
+#group_pumpkin {
+    width: 90px;
+    height: 90px;
+    position: absolute;
+    top: 308px;
+    right: 140px;
+}
+.pumpkin{
+  width: 90px;
+  height: 60px;
+  margin-top: 5px;
+  top: 0;
+}
+#group_chocolate {
+    width: 140px;
+    height: 90px;
+    position: absolute;
+    top: 75px;
+    right: 190px;
+}
+.chocolate{
+  width: 40px;
+  height: 70px;
   margin-top: 5px;
   top: 0;
 }
