@@ -1,0 +1,12 @@
+#Shelves_back {
+  background-image: url(../images/Market_shelves.jpg);
+  background-size: contain;
+  /*background-repeat: no-repeat; */
+  background-position: center;
+
+  height: 450px;
+  width: 700px;
+
+  margin: 0 auto;
+  position: relative;
+}
