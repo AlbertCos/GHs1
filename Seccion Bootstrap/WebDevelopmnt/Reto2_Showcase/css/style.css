@@ -64,3 +64,43 @@
   margin-top: 5px;
   top: 0;
 }
+#group_cola {
+    width: 210px;
+    height: 90px;
+    position: absolute;
+    top: 168px;
+    right: 420px;
+}
+.cola{
+  width: 30px;
+  height: 80px;
+  margin-top: 5px;
+  top: 0;
+}
+
+#group_juice {
+    width: 210px;
+    height: 90px;
+    position: absolute;
+    top: 168px;
+    right: 300px;
+}
+.juice{
+  width: 30px;
+  height: 80px;
+  margin-top: 5px;
+  top: 0;
+}
+#group_jar {
+    width: 210px;
+    height: 90px;
+    position: absolute;
+    top: 65px;
+    right: 430px;
+}
+.jar{
+  width: 40px;
+  height: 80px;
+  margin-top: 5px;
+  top: 0;
+}
