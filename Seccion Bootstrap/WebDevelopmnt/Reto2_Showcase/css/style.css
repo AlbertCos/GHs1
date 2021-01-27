@@ -4,22 +4,63 @@
   /*background-repeat: no-repeat; */
   background-position: center;
 
-  height: 450px;
-  width: 700px;
+  height: 550px;
+  width: 800px;
 
   margin: 0 auto;
   position: relative;
 }
 #group_carrot {
+    width: 310px;
+    height: 90px;
+    position: absolute;
+    top: 450px;
+    right: 100px;
+}
+.carrot {
+    width: 40px;
+    height: 40px;
+    margin-top: 5px;
+    top: 0;
+}
+
+#group_onion {
     width: 210px;
     height: 90px;
     position: absolute;
-    top: 100px;
-    right: 55px;
+    top: 460px;
+    right: 420px;
 }
-.carrot {
-    width: 30px;
-    height: 30px;
-    margin-top: 7px;
-    top: 0;
+.onion{
+  width: 30px;
+  height: 30px;
+  margin-top: 5px;
+  top: 0;
+}
+
+#group_spinach {
+    width: 210px;
+    height: 90px;
+    position: absolute;
+    top: 318px;
+    right: 420px;
+}
+.spinach{
+  width: 50px;
+  height: 50px;
+  margin-top: 5px;
+  top: 0;
+}
+#group_purple_onion {
+    width: 210px;
+    height: 90px;
+    position: absolute;
+    top: 318px;
+    right: 250px;
+}
+.purple_onion{
+  width: 50px;
+  height: 50px;
+  margin-top: 5px;
+  top: 0;
 }
