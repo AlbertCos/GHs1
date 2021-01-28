@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" id="svg4571" viewBox="0 0 407.02 391.3" version="1.1">
+  <defs id="defs3">
+    <linearGradient id="linearGradient5208" x1="217" gradientUnits="userSpaceOnUse" y1="509.36" gradientTransform="matrix(6.432 0 0 6.432 -1152.9 -2717.3)" x2="216.5" y2="530.61">
+      <stop id="stop5204" stop-color="#00484d" offset="0"/>
+      <stop id="stop5206" stop-color="#007880" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient5292" x1="201.35" gradientUnits="userSpaceOnUse" y1="500.29" gradientTransform="matrix(6.432 0 0 6.432 -1152.9 -2717.3)" x2="243.95" y2="502.18">
+      <stop id="stop5288" stop-color="#007880" offset="0"/>
+      <stop id="stop5290" stop-color="#007880" stop-opacity="0" offset="1"/>
+    </linearGradient>
+    <filter id="filter5341" color-interpolation-filters="sRGB">
+      <feGaussianBlur id="feGaussianBlur5343" stdDeviation="0.27578125"/>
+    </filter>
+  </defs>
+  <g id="layer1" transform="translate(-66.914 -360.53)">
+    <path id="rect5186" fill="url(#linearGradient5208)" d="m107.83 549.22h332.63c6.2992 0 11.37 5.0712 11.37 11.37l-25.728 179.87c0 6.2991-5.0711 11.37-11.37 11.37h-281.17c-6.2992 0-11.37-5.0711-11.37-11.37l-25.729-179.87c0-6.2991 5.0711-11.37 11.37-11.37z"/>
+    <path id="rect5181" fill="#007880" d="m67.919 545.02v31.356c0 6.2991 4.9569 11.256 11.256 11.256h383.31c6.2991 0 11.457-4.9569 11.457-11.256v-31.356h-406.02z"/>
+    <path id="rect4653" d="m105.51 481.36-38.592 63.114h406.02l-38.592-63.114h-328.83zm15.075 10.251h298.68l25.929 42.612h-350.54l25.929-42.612z" fill="#00a7b3"/>
+    <path id="path4659" d="m92.497 534.67 25.939-44.055 304.68 0.41165 24.704 43.231-355.32 0.41165z" fill="#006066"/>
+    <path id="path5171" d="m92.497 534.67 25.939-44.055 304.68 0.41165 24.704 43.231-355.32 0.41165z" fill="url(#linearGradient5292)"/>
+    <path id="path5176" d="m118.37 490.61-25.929 44.019h26.532v-44.019h-0.60298z" fill="#00484d"/>
+    <path id="path5179" d="m422.68 490.61 25.929 44.019h-26.532v-44.019h0.60268z" fill="#00484d"/>
+    <path id="rect5212" d="m124.23 605.18v53.466h17.085v-53.466h-17.085zm34.572 0v53.466h17.085v-53.466h-17.085zm34.773 0v53.466h17.085v-53.466h-17.085zm34.773 0v53.466h16.884v-53.466h-16.884zm34.572 0v53.466h17.085v-53.466h-17.085zm34.773 0v53.466h16.884v-53.466h-16.884zm34.572 0v53.466h17.085v-53.466h-17.085zm34.773 0v53.466h17.085v-53.466h-17.085zm34.572 0v53.466h17.085v-53.466h-17.085zm-277.38 77.184 4.623 53.466h12.462v-53.466h-17.085zm34.572 0v53.466h17.085v-53.466h-17.085zm34.773 0v53.466h17.085v-53.466h-17.085zm34.773 0v53.466h16.884v-53.466h-16.884zm34.572 0v53.466h17.085v-53.466h-17.085zm34.773 0v53.466h16.884v-53.466h-16.884zm34.572 0v53.466h17.085v-53.466h-17.085zm34.773 0v53.466h17.085v-53.466h-17.085zm34.572 0v53.466h12.462l4.623-53.466h-17.085z" fill="#00484d"/>
+    <path id="path5269" d="m124.14 605.75v6.834h17.085v-6.834h-17.085zm34.572 0v6.834h17.085v-6.834h-17.085zm34.773 0v6.834h17.085v-6.834h-17.085zm34.773 0v6.834h16.884v-6.834h-16.884zm34.572 0v6.834h17.085v-6.834h-17.085zm34.773 0v6.834h16.884v-6.834h-16.884zm34.572 0v6.834h17.085v-6.834h-17.085zm34.773 0v6.834h17.085v-6.834h-17.085zm34.572 0v6.834h17.085v-6.834h-17.085zm-277.38 77.184 0.60268 6.834h16.482v-6.834h-17.085zm34.572 0v6.834h17.085v-6.834h-17.085zm34.773 0v6.834h17.085v-6.834h-17.085zm34.773 0v6.834h16.884v-6.834h-16.884zm34.572 0v6.834h17.085v-6.834h-17.085zm34.773 0v6.834h16.884v-6.834h-16.884zm34.572 0v6.834h17.085v-6.834h-17.085zm34.773 0v6.834h17.085v-6.834h-17.085zm34.572 0v6.834h16.482l0.60268-6.834h-17.085z" fill="#2e3436"/>
+    <path id="path5274" d="m125.42 652.41v9.246h17.085v-9.246h-17.085zm34.572 0v9.246h17.085v-9.246h-17.085zm34.773 0v9.246h17.085v-9.246h-17.085zm34.773 0v9.246h16.884v-9.246h-16.884zm34.572 0v9.246h17.085v-9.246h-17.085zm34.773 0v9.246h16.884v-9.246h-16.884zm34.572 0v9.246h17.085v-9.246h-17.085zm34.773 0v9.246h17.085v-9.246h-17.085zm34.572 0v9.246h17.085v-9.246h-17.085zm-277.38 32.964 4.623 53.466h12.462v-9.2459h-12.462l-3.819-44.22h-0.80401zm293.66 0-3.819 44.22h-12.462v9.2459h12.462l4.623-53.466h-0.80399zm-259.09 44.22v9.2459h17.085v-9.2459h-17.085zm34.773 0v9.2459h17.085v-9.2459h-17.085zm34.773 0v9.2459h16.884v-9.2459h-16.884zm34.572 0v9.2459h17.085v-9.2459h-17.085zm34.773 0v9.2459h16.884v-9.2459h-16.884zm34.572 0v9.2459h17.085v-9.2459h-17.085zm34.773 0v9.2459h17.085v-9.2459h-17.085z" fill="#00c4cc"/>
+    <path id="path5279" opacity=".8" d="m69.125 543.59 402.8 1.608" stroke="#fff" stroke-width="2.279" fill="#fff"/>
+    <path id="path5281" opacity=".8" d="m118.88 492.04 17.873-0.61877" stroke="#fff" stroke-width="2.0939" fill="#fff"/>
+    <path id="path5355" opacity=".8" transform="matrix(5.2625 0 0 5.2625 -899.77 -2119.7)" fill="#2e3436" d="m225.25 511.17c0 1.1391-0.92341 2.0625-2.0625 2.0625s-2.0625-0.92341-2.0625-2.0625 0.92341-2.0625 2.0625-2.0625 2.0625 0.92342 2.0625 2.0625z"/>
+    <path id="path5345" style="block-progression:tb;color:#000000;text-transform:none;text-indent:0" fill="#00484d" d="m370.31 490.61-3.3682 43.375 10.687 0.6374 3.3334-44.088-10.653 0.0753zm13.654 52.906-109.34 21.651 2.613 11.055 114.33-24.93 3.8534-4.6171 1.7056-3.8535-13.163 0.69459z"/>
+    <path id="path5297" style="block-progression:tb;color:#000000;text-transform:none;text-indent:0" d="m345.3 362.57c-1.9343 0.27014-3.7334 1.3948-4.824 3.015l-90.249 113.97h17.889l79.194-100.3 46.23 36.984-124.42 154.77s4.02 8.844 14.07 3.216l125.62-154.77c2.4077-2.9069 1.8211-7.7952-1.206-10.05l-57.08-45.02c-1.399-1.2788-3.3358-1.9493-5.226-1.809z"/>
+    <path id="path5303" style="block-progression:tb;color:#000000;text-transform:none;text-indent:0" d="m233.44 479.19-0.625 0.1875 9.5625 7.4688-19.656 24.406h0.5625l19.656-24.469-9.5-7.5938zm-0.69 2.06c-0.2377 0.0605-0.45341 0.20508-0.59375 0.40625l-12.312 15.375h0.59375l12.438-15.562c0.0495-0.0839 0.1164-0.15193 0.1875-0.21875-0.0757-0.009-0.17437-0.009-0.25 0-0.0303-0.001-0.0322-0.001-0.0625 0z" transform="matrix(6.432 0 0 6.432 -1152.9 -2717.3)" filter="url(#filter5341)" fill="#fff"/>
+    <path id="path5351" fill="#007880" d="m382.53 534.33 1.137 9.6647 12.791-0.56858-4.548-9.6647-9.3804 0.56859z"/>
+    <path id="path5353" style="block-progression:tb;color:#000000;text-transform:none;text-indent:0" fill="#007880" d="m363.71 481.28 6.8827 9.3292 10.653-0.0753-6.0154-9.717-11.52 0.46311z"/>
+  </g>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>blue basket</dc:title>
+        <dc:date>2010-11-08T21:44:58</dc:date>
+        <dc:description>basket, buy, clip art, clipart, shop, shopping, </dc:description>
+        <dc:source>http://openclipart.org/detail/94711/blue-basket-by-rg1024</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>rg1024</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>basket</rdf:li>
+            <rdf:li>buy</rdf:li>
+            <rdf:li>clip art</rdf:li>
+            <rdf:li>clipart</rdf:li>
+            <rdf:li>shop</rdf:li>
+            <rdf:li>shopping</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
